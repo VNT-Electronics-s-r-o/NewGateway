@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Profile name",
+        "address": "DEFAULT",
+        "value": ""
+    },
+    {
+        "name": "Alarm on/off",
+        "address": "0x08080001",
+        "value": "4"
+    },
+    {
+        "name": "Keyboard clicks sound",
+        "address": "0x08080002",
+        "value": "2"
+    },
+    {
+        "name": "LCD contrast",
+        "address": "0x08080003",
+        "value": "30"
+    },
+    {
+        "name": "LCD brightness",
+        "address": "0x08080004",
+        "value": "50"
+    },
+    {
+        "name": "LCD backlight",
+        "address": "0x08080005",
+        "value": "158"
+    },
+    {
+        "name": "My TX EUI 1",
+        "address": "0x08080008",
+        "value": "0x67457E7F00000008"
+    },
+    {
+        "name": "Associated dev 1",
+        "address": "0x0808001E",
+        "value": ""
+    },
+    {
+        "name": "Name of dev 1",
+        "address": "0x08080014",
+        "value": ""
+    },
+    {
+        "name": "Addr mac 1 A",
+        "address": "0x08080028",
+        "value": ""
+    },
+    {
+        "name": "Dev 1 type",
+        "address": "0x08080078",
+        "value": ""
+    },
+    {
+        "name": "AES key 1",
+        "address": "0x08080082",
+        "value": ""
+    },
+    {
+        "name": "WIFI SSID 1",
+        "address": "0x08080122",
+        "value": "Vyroba"
+    },
+    {
+        "name": "WIFI PSWD 1",
+        "address": "0x08080146",
+        "value": "Spider1580"
+    },
+    {
+        "name": "Factory alarm on/off",
+        "address": "0x0808018A",
+        "value": ""
+    },
+    {
+        "name": "Factory key clicks sound",
+        "address": "0x0808018B",
+        "value": ""
+    },
+    {
+        "name": "Factory LCD contrast",
+        "address": "0x0808018C",
+        "value": ""
+    },
+    {
+        "name": "Factory LCD brightness",
+        "address": "0x0808018D",
+        "value": ""
+    },
+    {
+        "name": "Factory LCD backlight",
+        "address": "0x0808018E",
+        "value": ""
+    },
+    {
+        "name": "Logo selector",
+        "address": "0x080801A4",
+        "value": "3"
+    },
+    {
+        "name": "RF frequency",
+        "address": "0x080801A5",
+        "value": "869525000"
+    }
+]

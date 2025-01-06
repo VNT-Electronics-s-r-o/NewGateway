@@ -1,0 +1,5 @@
+Port: COM9, Desc: USB Serial Port (COM9) , HWID: USB VID:PID=0403:6001 SER=A50285BIA 
+Port found:  COM9
+New port found:  COM Error in upload_esp_worker:  'utf-8' codec can't decode byte 0xf8 in position 171: invalid start byte  
+
+Connecting......................................                                                                        Error while programming ESP Failed to connect to ESP32: No serial data received.                                        For troubleshooting steps visit: https://docs.espressif.com/projects/esptool/en/latest/troubleshooting.html             [INFO] Sent data: bytearray(b'-\xd4\x02\x00\x00\xd3\x04\x00O')                                                          [INFO] Sent data: bytearray(b'-\xd4\x02\x00\x00\xd3\x04\x01\x9a')                                                       [ERROR] - ESP upload failed: Nahrávání ESP ne nezdařilo   
