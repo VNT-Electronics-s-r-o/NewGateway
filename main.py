@@ -402,7 +402,6 @@ class ServiceWidget(QWidget):
 		QThreadPool.globalInstance().start(worker)
 
 	def init_psu_worker(self):
-		
 		print('Init PSU Worker')
 		if not self.psu.start_psu(PSU_IP):
 			return False
@@ -412,7 +411,6 @@ class ServiceWidget(QWidget):
 		if not self.rf_control.set_aux_pin(3,1):
 			return False
 		time.sleep(0.1)
-	
 		return True
 
 	def init_psu_done(self, result):
